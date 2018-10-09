@@ -1,0 +1,13 @@
+C:\Users\micha\OneDrive\Documents\Visual Studio 2017\Projects\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+C:\Users\micha\OneDrive\Documents\Visual Studio 2017\Projects\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+C:\Users\micha\OneDrive\Documents\Visual Studio 2017\Projects\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+C:\Users\micha\OneDrive\Documents\Visual Studio 2017\Projects\TaxCalculator\TaxCalculator\bin\Debug\itextsharp.dll
+C:\Users\micha\OneDrive\Documents\Visual Studio 2017\Projects\TaxCalculator\TaxCalculator\bin\Debug\itextsharp.xml
+C:\Users\micha\OneDrive\Documents\Visual Studio 2017\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\Visual Studio 2017\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.Properties.Resources.resources
+C:\Users\micha\OneDrive\Documents\Visual Studio 2017\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.frmMain.resources
+C:\Users\micha\OneDrive\Documents\Visual Studio 2017\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.GenerateResource.cache
+C:\Users\micha\OneDrive\Documents\Visual Studio 2017\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\Visual Studio 2017\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.CopyComplete
+C:\Users\micha\OneDrive\Documents\Visual Studio 2017\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+C:\Users\micha\OneDrive\Documents\Visual Studio 2017\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
